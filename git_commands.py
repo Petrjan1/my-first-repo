@@ -32,3 +32,10 @@
 
 
 # git push origin имя_ветки - отправить версию кода на github
+
+
+#  git log - список коммитов
+# git log --oneline
+
+
+# git clone <ссылка на репозиторий> 
